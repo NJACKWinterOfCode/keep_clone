@@ -111,6 +111,7 @@ export default class Home extends Component {
         }
     }
     addNote(title,data, list) {
+        
         //Push the new note to the realtime database
         this.db.push().set({noteTitle: title, noteData: data, noteList: list });
     }

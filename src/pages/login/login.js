@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import fire, {provider } from '../../config/fire';
-import './login.css'
+import './login.css';
 import Loader from '../loader/loader';
 
 export default class Login extends Component {

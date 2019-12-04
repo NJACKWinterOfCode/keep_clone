@@ -1,10 +1,10 @@
 {
-    "apiKey": "",
-    "authDomain": "",
-    "databaseURL": "",
-    "projectId": "",
-    "storageBucket": "",
-    "messagingSenderId": ""
+    "apiKey": "AIzaSyBSMaGg1ZFYUTr_OQ9sLTNdyPxHrw4Qw7M",
+    "authDomain": "clone-4031e.firebaseapp.com",
+    "databaseURL": "https://clone-4031e.firebaseio.com",
+    "projectId": "clone-4031e",
+    "storageBucket": "clone-4031e.appspot.com",
+    "messagingSenderId": "538892373292"
+
+
 }
-
-
